@@ -27,7 +27,7 @@ This approach breaches **multimodality** in language acquisition. According to c
 ### 📚 Academic Sources & Further Reading
 
 The methodology behind dual-line phonetic/logographic subtitles is backed by extensive research in multimedia learning and Chinese language acquisition. Below are publicly accessible studies exploring these cognitive mechanics:
-
+```bibtex
 @article{winke2010effects,
   author    = {Winke, Paula and Gass, Susan and Sydorenko, Tina},
   title     = {The effects of captioning videos used for foreign language listening activities},
@@ -60,4 +60,4 @@ The methodology behind dual-line phonetic/logographic subtitles is backed by ext
   year      = {2012},
   publisher = {American Psychological Association},
   doi       = {10.1037/a0027485}
-}
+}```
