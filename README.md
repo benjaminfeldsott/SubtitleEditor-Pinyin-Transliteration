@@ -8,12 +8,8 @@ Transliterate Chinese .srt files into learner subtitles! Adds transliterated Uni
    ```bash
    gem install ruby-pinyin
    ```
-2. Save the code to a Ruby file (e.g., `transliterate.rb`):
+2. Save the code to a Ruby file (e.g., `subtitle_editor_pinyin.rb`):
 3. Update the `input_file` string with your source `.srt` file.
-4. Run the script! 
-   ```bash
-   ruby transliterate.rb
-   ```
 
 ## 🎧 A "Sound You Can Read" ♪
 
