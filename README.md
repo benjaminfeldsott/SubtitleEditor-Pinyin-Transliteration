@@ -28,6 +28,36 @@ This approach breaches **multimodality** in language acquisition. According to c
 
 The methodology behind dual-line phonetic/logographic subtitles is backed by extensive research in multimedia learning and Chinese language acquisition. Below are publicly accessible studies exploring these cognitive mechanics:
 
-*   **Bimodal Input in SLA:** Winke, P., Gass, S., & Sydorenko, T. (2010). *The effects of captioning videos used for foreign language listening activities.* Language Learning & Technology. This open-access study explores how bimodal input (seeing and hearing language simultaneously) enhances vocabulary recognition and lowers learner anxiety. [Read the Open Access PDF](https://www.lltjournal.org/item/2707)
-*   **Phonetic Coding in Chinese Reading:** Perfetti, C. A., & Tan, L. H. (1998). *The time course of graphic, phonological, and semantic activation in Chinese character identification.* Reading Research Quarterly. Foundational research on how phonetic decoding is essential even when reading logographic systems. [Available via JSTOR/ResearchGate]
-*   **Pinyin's Role in Visual-Auditory Integration:** Research published in *Frontiers in Psychology* (such as the work by Liversedge et al. on eye movements during reading) frequently demonstrates how providing alphabetic phonetic hints aids in the working memory retention of Hanzi characters by linking visual shapes directly to phonological loops. [Browse Open Access CFL studies on Frontiers](https://www.frontiersin.org/journals/psychology)
+@article{winke2010effects,
+  author    = {Winke, Paula and Gass, Susan and Sydorenko, Tina},
+  title     = {The effects of captioning videos used for foreign language listening activities},
+  journal   = {Language Learning \& Technology},
+  volume    = {14},
+  number    = {1},
+  pages     = {65--86},
+  year      = {2010}
+}
+
+@article{perfetti1998time,
+  author    = {Perfetti, Charles A. and Tan, Li Hai},
+  title     = {The time course of graphic, phonological, and semantic activation in Chinese character identification},
+  journal   = {Reading Research Quarterly},
+  volume    = {33},
+  number    = {1},
+  pages     = {101--118},
+  year      = {1998},
+  publisher = {International Reading Association},
+  doi       = {10.1598/RRQ.33.1.5}
+}
+
+@article{shen2012eye,
+  author    = {Shen, Deli and Liversedge, Simon P. and Tian, Jin and Zang, Chuanli and Cui, Lei and Bai, Xuejun and Yan, Guoli and Rayner, Keith},
+  title     = {Eye movements of second language learners when reading spaced and unspaced Chinese text},
+  journal   = {Journal of Experimental Psychology: Applied},
+  volume    = {18},
+  number    = {2},
+  pages     = {192--202},
+  year      = {2012},
+  publisher = {American Psychological Association},
+  doi       = {10.1037/a0027485}
+}
