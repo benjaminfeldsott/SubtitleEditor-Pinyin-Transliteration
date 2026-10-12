@@ -4,6 +4,11 @@ Transliterate Chinese .srt files into learner subtitles! Adds transliterated Uni
 
 ## 🚀 Usage
 
+**Prerequisites:** This script requires Ruby. If you have never used Ruby before, download it:
+   Install Ruby quickly via [RubyInstaller](https://rubyinstaller.org/) 
+   If you are using VS Code or Codium (recommended), download the [Code Runner extension](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner)
+   to run the script with a single click.   
+
 1. Install the required Ruby gem:
    ```bash
    gem install ruby-pinyin
